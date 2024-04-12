@@ -1,0 +1,14 @@
+com\smartgrid\SmartGrid\SmartGridApplication.class
+com\smartgrid\SmartGrid\SocketConfigurations\Component.class
+com\smartgrid\SmartGrid\dtos\LoginConf$LoginConfBuilder.class
+com\smartgrid\SmartGrid\SmartGridApplication$2.class
+com\smartgrid\SmartGrid\dtos\HistoryReq.class
+com\smartgrid\SmartGrid\dtos\Auth.class
+com\smartgrid\SmartGrid\SmartGridApplication$1.class
+com\smartgrid\SmartGrid\enums\Role.class
+com\smartgrid\SmartGrid\SocketConfigurations\Message.class
+com\smartgrid\SmartGrid\SocketConfigurations\SocketIoEventHandler$2.class
+com\smartgrid\SmartGrid\SocketConfigurations\SocketIoEventHandler.class
+com\smartgrid\SmartGrid\dtos\LoginConf.class
+com\smartgrid\SmartGrid\SocketConfigurations\SocketIoEventHandler$1.class
+com\smartgrid\SmartGrid\SocketConfigurations\Records.class
