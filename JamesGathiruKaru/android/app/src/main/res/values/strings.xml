@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartGrid</string>
+    <string name="url">https://smart-grid.onrender.com</string>
+    <string name="socketurl">https://smartgridsocket.onrender.com</string>
+</resources>
